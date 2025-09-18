@@ -12,7 +12,7 @@ CREATE TABLE vehicles (
 cursor.executemany("""
 INSERT INTO vehicles (number, owner_name, email) VALUES (?, ?, ?)
 """, [
-    ("TS09AB4172", "Your_Name", "name@gmail.com")
+    ("XX00XX0000", "Your_Name", "name@gmail.com")
 ])
 conn.commit()
 conn.close()
