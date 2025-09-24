@@ -20,8 +20,7 @@ It uses computer vision and YOLOv8 for vehicle detection and sends automated ema
 
 - **Computer Vision:** OpenCV and YOLO for vehicle detection  
 - **Email Notifications:** SMTP for sending emails  
-- **Location Detection:** Geolocation services to get coordinates of the image  
-- **Web Framework / GUI:** Flask or Tkinter (depending on implementation)  
+- **Web Framework / GUI:** Flask  
 
 ---
 
