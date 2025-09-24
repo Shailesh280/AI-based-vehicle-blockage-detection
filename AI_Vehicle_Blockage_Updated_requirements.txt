@@ -1,0 +1,5 @@
+opencv-python
+numpy
+torch
+yolov8
+flask
